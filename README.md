@@ -46,11 +46,8 @@ You can then import that folder in your IDE. For more IDEs, type `pio init --hel
 
 ## Media 
 
-![thingspeak](thingspeak_channel.png)
-
 ![setup](setup.jpg)
 
-![cubemx](cubemx.png)
 
 ## Credits 
 
