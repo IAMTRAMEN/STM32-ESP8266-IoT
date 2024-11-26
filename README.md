@@ -1,4 +1,4 @@
-# STM32 + ESP8266 IoT demo using PlatformIO
+# STM32 + ESP8266 IoT using PlatformIO
 
 ## What is this project?
 
